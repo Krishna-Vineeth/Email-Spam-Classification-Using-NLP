@@ -9,3 +9,7 @@ Before artificial intelligence and machine learning techniques, various solution
 Emails can be classified into various categories very easily based on the requirements of a particular user or a company. This email spam classification model is implemented by using Python & classification algorithms like Logistic Regression, Naive Bayes, and Support Vector Machine.
 
 Checkout my publication at IEEE: https://ieeexplore.ieee.org/document/10073758
+
+Output:
+![web app](https://github.com/Krishna-Vineeth/Email-Spam-Classification-Using-NLP/assets/88652988/924c3e7c-a188-41f4-855e-a2b9c091b2ec)
+![web app_1](https://github.com/Krishna-Vineeth/Email-Spam-Classification-Using-NLP/assets/88652988/7ff572f6-e58a-4168-80cb-961f85f4330e)
